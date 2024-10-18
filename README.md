@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cadelaa
-- I'm a designer learning to code.
+-> I'm a designer learning to code.
 
 <!---
 cadelaa/cadelaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
